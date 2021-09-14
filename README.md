@@ -1,6 +1,8 @@
 # nbeats-midterm
 
-The code is in the Colab notebook: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/12Xon4JvJltF1mv138I3UwlpC79sL-BLa)
+The code is in the Colab notebook: 
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/12Xon4JvJltF1mv138I3UwlpC79sL-BLa)
 
 ## Citation
 
