@@ -1,5 +1,7 @@
 # nbeats-midterm
 
+The code is in the Colab notebook: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/12Xon4JvJltF1mv138I3UwlpC79sL-BLa)
+
 ## Citation
 
 If you use this code in any context, please cite the following paper:
@@ -17,4 +19,4 @@ If you use this code in any context, please cite the following paper:
 }
 ```
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/12Xon4JvJltF1mv138I3UwlpC79sL-BLa)
+
